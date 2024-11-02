@@ -7,8 +7,6 @@
 给你们看看我的
 [学习资料](https://github.com/InternLM/Tutorial)
 
-
-
-
+[入门岛作业3git](https://mp.csdn.net/mp_blog/creation/editor/143451133)
 
 
